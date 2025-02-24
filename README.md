@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hello I'm Vend3ttA 🫶
+```
+You can call me Ven for short
 
+┌──(root㉿Vend3ttA)-[~]
+└─$ whoami
 
-**PcmVend3ttA/PcmVend3ttA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+┌──(root㉿Vend3ttA)-[~]
+└─$ root
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  
+┌──(root㉿Vend3ttA)-[~]
+└─$ ./ven.sh
+HARDWORK BEATS TALENT, WHEN TALENT DOESN'T HARDWORK.
